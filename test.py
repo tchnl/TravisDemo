@@ -1,11 +1,11 @@
 # Tests.py
 
 def test_een():
-	# Test of één plus één twee is
+	# Test of een plus een twee is
 	assert 1 + 1 == 2
 	
 def test_twee():
-	# Test of één plus twee vijf is
+	# Test of een plus twee vijf is
 	assert 1 + 2 == 5
 	
 def test_drie():
