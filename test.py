@@ -3,6 +3,7 @@
 def test_een():
 	# Test of een plus een twee is
 	assert 1 + 1 == 2
+	print "TOPLEL"
 	
 def test_twee():
 	# Test of een plus twee vijf is
